@@ -1,0 +1,5 @@
+{
+  "name": "Clock Time Learner",
+  "description": "An interactive and colorful app to help young learners practice telling time in English using analog clocks (full hours only).",
+  "requestFramePermissions": []
+}
